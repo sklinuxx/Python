@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-### works only on linux
+### may work only on linux
 import os
 import sys
 import time
